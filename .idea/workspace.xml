@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="392e70f4-5c34-42b8-8cd8-41907e009634" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,32 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="zoomultithreadschat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="zoomultithreadschat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +91,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1694087840922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Initial commit">
+      <created>1694087949176</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1694087949176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

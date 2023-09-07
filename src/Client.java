@@ -78,7 +78,7 @@ public class Client {
         String username = scanner.nextLine();
         Socket socket = new Socket("localhost", 1234);
         Client client = new Client(socket, username);
-        client.listenForMessage();
+        client.listenForMessage();  //Both blocking but listenForMessages is on a separate thread
         client.sendMessage();
     }
 
